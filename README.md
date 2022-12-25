@@ -3,7 +3,16 @@
 
 ### Hi there 👋, my name is Platipus
 ![](https://platipuss.xyz/pdp.jpg)
+```css
+┌──(root@Platipus)-[~]
+└─# python3 nows.py
 
+root@Platipus
+-----------------
+Username: PLATIPUS#2535
+Discord: .gg/MG69WUmb6F 
+-----------------
+```
 I made some project for fun, and i hope to get better and better.
 
 Skills: PYTHON / JS (a little bit)  / HTML / CSSI made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
