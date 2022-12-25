@@ -5,7 +5,7 @@
 I made some project for fun, and i hope to get better and better.
 ```css
 ┌──(root@Platipus)-[~]
-└─# python3 nows.py
+└─$ python3 nows.py
 
 root@Platipus
 -----------------
