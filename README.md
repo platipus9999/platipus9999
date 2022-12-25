@@ -13,9 +13,7 @@ Username: PLATIPUS#5696
 Discord: .gg/TCdKx58Rvy 
 -----------------
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platipus9999)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=platipus9999&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platipus9999)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=platipus9999&show_icons=true)  
 
 I made some project for fun, and i hope to get better and better.
 
