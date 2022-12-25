@@ -12,6 +12,9 @@ root@Platipus
 Username: PLATIPUS#5696
 Discord: .gg/TCdKx58Rvy 
 -----------------
+
+┌──(root@Platipus)-[~]
+└─#
 ```
 ![](https://platipuss.xyz/pdp.jpg)
 
