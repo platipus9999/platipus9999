@@ -1,13 +1,4 @@
-```css
-┌──(root@Platipus)-[~]
-└─# python3 nows.py
 
-root@Platipus
------------------
-Username: PLATIPUS#2535
-Discord: .gg/MG69WUmb6F 
------------------
-```
 -----
 
 ### Hi there 👋, my name is Platipus
