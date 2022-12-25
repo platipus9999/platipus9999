@@ -7,11 +7,9 @@ I made some project for fun, and i hope to get better and better.
 ┌──(root@Platipus)-[~]
 └─# python3 nows.py
 
-root@Platipus
------------------
-Username: PLATIPUS#5696
-Discord: .gg/TCdKx58Rvy 
------------------
+Global Info:
+[1]Username: PLATIPUS#5696
+[2]Discord: .gg/TCdKx58Rvy 
 
 ┌──(root@Platipus)-[~]
 └─#
