@@ -9,9 +9,7 @@ Discord: .gg/MG69WUmb6F
 -----------------
 ```
 -----
-<p align="center">
-	<img src="https://platipuss.xyz/pdp.jpg"/>
-</p>
+
 ### Hi there 👋, my name is Platipus
 ![](https://platipuss.xyz/pdp.jpg)
 
