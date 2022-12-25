@@ -9,8 +9,8 @@
 
 root@Platipus
 -----------------
-Username: PLATIPUS#2535
-Discord: .gg/MG69WUmb6F 
+Username: PLATIPUS#5696
+Discord: .gg/TCdKx58Rvy 
 -----------------
 ```
 I made some project for fun, and i hope to get better and better.
