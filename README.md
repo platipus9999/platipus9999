@@ -12,7 +12,7 @@ Global Info:
 [2]Discord: .gg/TCdKx58Rvy 
 
 ┌──(root@Platipus)-[~]
-└─#
+└─# python3 tiktok_bot.py
 ```
 ![](https://platipuss.xyz/pdp.jpg)
 
